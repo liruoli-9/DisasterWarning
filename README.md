@@ -3,4 +3,4 @@
 
 username    admin  
 password    admin  
-不用也能登 /home
+不用登录也能 /home
