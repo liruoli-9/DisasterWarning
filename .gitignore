@@ -28,12 +28,3 @@ coverage
 *.sw?
 
 *.tsbuildinfo
-public
-.vscode
-src/assets
-src/json
-src/store
-jscon.config.js
-package-lock.json
-package.json
-vite.config.js
